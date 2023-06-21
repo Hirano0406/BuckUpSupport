@@ -1,0 +1,47 @@
+﻿C:\Users\konpa\OneDrive\�`E??�N�g�b�v\HAL\3�N\SP31\02_ShaderProject\ShaderProject\PS_Dissolve.hlsl(35,2-46): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\PS_Dissolve.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\PS_DistanceFog.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\PS_GouraudShading.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\PS_HeightFog.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\PS_LimLight.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\PS_Moss.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\PS_PhongShading.cso
+C:\Users\konpa\OneDrive\�`E??�N�g�b�v\HAL\3�N\SP31\02_ShaderProject\ShaderProject\PS_PolarCoordinate.hlsl(53,2-53): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\PS_PolarCoordinate.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\PS_ScreenUV.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\PS_Specular.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\PS_TexColor.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\VS_GouraudShading.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\VS_Object.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\VS_ScreenPosition.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\ShaderProject\Assets\Shader\VS_WorldPosition.cso
+  CameraDCC.cpp
+  CameraBase.cpp
+  DirectX.cpp
+  Input.cpp
+  LightBase.cpp
+  MeshBuffer.cpp
+  Geometory.cpp
+  Main.cpp
+  Model.cpp
+  MoveLight.cpp
+  SceneBase.cpp
+  SceneBumpmap.cpp
+c:\users\konpa\onedrive\デスクトップ\hal\3年\sp31\02_shaderproject\shaderproject\scenebumpmap.cpp(96): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  SceneShading.cpp
+  SceneVisual.cpp
+  Shader.cpp
+  Sprite.cpp
+  Startup.cpp
+  Texture.cpp
+  SceneRoot.cpp
+Model.obj : error LNK2001: 外部シンボル "aiGetMaterialFloatArray" は未解決です。
+Model.obj : error LNK2001: 外部シンボル "aiGetMaterialString" は未解決です。
+Model.obj : error LNK2001: 外部シンボル "aiGetMaterialColor" は未解決です。
+Model.obj : error LNK2001: 外部シンボル ""public: char const * __cdecl Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QEBAPEBDXZ)" は未解決です。
+Model.obj : error LNK2001: 外部シンボル ""public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@PEBDI@Z)" は未解決です。
+Model.obj : error LNK2001: 外部シンボル ""public: __cdecl Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QEAA@XZ)" は未解決です。
+Model.obj : error LNK2001: 外部シンボル ""public: __cdecl Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QEAA@XZ)" は未解決です。
+C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\SP31\02_ShaderProject\x64\Release\ShaderProject.exe : fatal error LNK1120: 7 件の未解決の外部参照
