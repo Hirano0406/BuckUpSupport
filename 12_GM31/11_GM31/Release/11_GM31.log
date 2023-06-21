@@ -1,0 +1,26 @@
+﻿  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\GM31\16_GM31\11_GM31\shader\unlitTexturePS.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\GM31\16_GM31\11_GM31\shader\unlitTextureVS.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\GM31\16_GM31\11_GM31\shader\vertexLightingPS.cso
+  compilation object save succeeded; see C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\GM31\16_GM31\11_GM31\shader\vertexLightingVS.cso
+  Bullet.cpp
+  camera.cpp
+  CreateTexture.cpp
+  cube.cpp
+  enemy.cpp
+  field.cpp
+  game.cpp
+  input.cpp
+  main.cpp
+  manager.cpp
+  modelRenderer.cpp
+  player.cpp
+  polygon2D.cpp
+  renderer.cpp
+  shader.cpp
+  shadow.cpp
+  sky.cpp
+  sprite.cpp
+  コード生成しています。
+  All 747 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  11_GM31.vcxproj -> C:\Users\konpa\OneDrive\デスクトップ\HAL\3年\GM31\16_GM31\Release\11_GM31.exe
